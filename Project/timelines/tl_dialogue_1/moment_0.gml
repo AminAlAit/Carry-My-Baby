@@ -1,0 +1,1 @@
+scr_dialogue_text("Johnson: Maam im agent “magic” Johnson, \n and this is my partner Larry");

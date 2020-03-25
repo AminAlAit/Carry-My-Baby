@@ -1,0 +1,1 @@
+scr_dialogue_text("All you care about is the beer and TV!");

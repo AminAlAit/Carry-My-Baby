@@ -1,0 +1,1 @@
+scr_dialogue_text("Counselor: Enough!");

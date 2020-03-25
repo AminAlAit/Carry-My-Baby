@@ -1,0 +1,1 @@
+scr_dialogue_text("Larry: we’re here for the kid.");

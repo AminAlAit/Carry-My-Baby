@@ -1,0 +1,1 @@
+scr_dialogue_text("Larry: Goo Goo Gaa Gaa.. Goo?!");

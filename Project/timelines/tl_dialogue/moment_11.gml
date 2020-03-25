@@ -1,0 +1,1 @@
+scr_dialogue_text("You should be careful and actually \n work together to fix this marriage");

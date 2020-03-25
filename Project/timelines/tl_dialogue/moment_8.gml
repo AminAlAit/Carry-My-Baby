@@ -1,0 +1,1 @@
+scr_dialogue_text("CHILD PROTECTION SERVICE will not be \n happy to see the state of your household");

@@ -1,0 +1,1 @@
+scr_dialogue_text("Johnson: good lord, what hey done to it, \n we’re taking your baby!");

@@ -1,0 +1,1 @@
+scr_dialogue_text("Karen: You never do anything for us Bob!");

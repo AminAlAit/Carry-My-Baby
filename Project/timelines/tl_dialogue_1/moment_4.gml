@@ -1,0 +1,1 @@
+scr_dialogue_text("Johnson: What is it saying damn it");

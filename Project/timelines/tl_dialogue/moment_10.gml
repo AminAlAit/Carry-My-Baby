@@ -1,0 +1,1 @@
+scr_dialogue_text("Remember, 1 MONTH under probation \n is all you have!");

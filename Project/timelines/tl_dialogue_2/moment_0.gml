@@ -1,0 +1,1 @@
+scr_dialogue_text("Karen is Happy.\nBob is Happy.\nBaby is Happy.\nMarriage Fixed.");

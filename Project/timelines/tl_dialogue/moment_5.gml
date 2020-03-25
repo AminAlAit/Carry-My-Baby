@@ -1,0 +1,1 @@
+scr_dialogue_text("Karen: Well how about you spend \n some more time with your child!");

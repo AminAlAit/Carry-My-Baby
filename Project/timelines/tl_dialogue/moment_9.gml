@@ -1,0 +1,1 @@
+scr_dialogue_text("And they surely will not leave \n your kid with you!");

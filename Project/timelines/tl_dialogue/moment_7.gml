@@ -1,0 +1,1 @@
+scr_dialogue_text("You are both aware of the gravity \n of that situation");
